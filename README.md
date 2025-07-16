@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-     <a href="https://gustavosilvalara.github.io/Encurtador-de-Links/">📱 Visite o Projeto</a>
+     <a href="https://gustavosilvalara.github.io/Encurtador-de-Links/" target="_blank">📱 Visite o Projeto</a>
 </p>
 
 <h2 id="layout">🎨 Interface</h2>
