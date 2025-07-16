@@ -31,7 +31,7 @@
 
 <h2 id="started">🚀 Começando</h2>
 
-Para executar o projeto locamente será necessario apenas clonar o repositório
+Para executar o projeto localmente será necessario apenas clonar o repositório
 
 <h3>Pré-requisitos</h3>
 
