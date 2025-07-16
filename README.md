@@ -52,7 +52,7 @@ git clone github.com/gustavosilvalara/Encurtador-de-Links
 <table>
   <tr>
     <td align="center">
-      <a href="#">
+      <a href="https://www.linkedin.com/in/gustavo-silva-lara-93b541364/">
         <img src="https://avatars.githubusercontent.com/u/198003078?s=400&u=44bf08bb237f3776f78f5fe6be8d8e1a78bf8530&v=4" width="100px;" alt="Gustavo Silva Lara Profile Picture"/><br>
         <sub>
           <b>Gustavo Silva Lara</b>
