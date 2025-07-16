@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-     <a href="https://gustavosilvalara.github.io/FrontEnd/" target="_blank">📱 Visite o Projeto</a>
+     <a href="https://gustavosilvalara.github.io/FrontEnd/">📱 Visite o Projeto</a>
 </p>
 
 <h2 id="layout">🎨 Interface</h2>
@@ -31,7 +31,7 @@
 
 <h2 id="started">🚀 Começando</h2>
 
-Para executar o projeto locamente será necessario apenas clonar o repositório
+Para executar o projeto localmente será necessario apenas clonar o repositório
 
 <h3>Pré-requisitos</h3>
 
@@ -52,7 +52,7 @@ git clone github.com/gustavosilvalara/Encurtador-de-Links
 <table>
   <tr>
     <td align="center">
-      <a href="#">
+      <a href="https://www.linkedin.com/in/gustavo-silva-lara-93b541364/">
         <img src="https://avatars.githubusercontent.com/u/198003078?s=400&u=44bf08bb237f3776f78f5fe6be8d8e1a78bf8530&v=4" width="100px;" alt="Gustavo Silva Lara Profile Picture"/><br>
         <sub>
           <b>Gustavo Silva Lara</b>
