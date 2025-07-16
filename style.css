@@ -34,8 +34,9 @@ body{
     /*
     background: color image repeat position/size
     */
-    background: var(--bg-url) no-repeat top center;
     height: 100vh;
+    background: var(--bg-url) no-repeat top center/cover;
+    
 }
 body *{
     font-family: "Inter", sans-serif;
@@ -47,6 +48,7 @@ body *{
     max-width: 588px;
     margin: 56px auto 0px;
     padding: 0 24px;
+    
 }
 
 /* Profile */
